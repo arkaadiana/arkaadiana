@@ -52,8 +52,8 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=blender,bootstrap,figma,github,html,java,javascript,linux,php,python,mysql,nodejs,pytorch,photoshop" /><br>
-        <img src="https://skillicons.dev/icons?i=flask,vscode,git,html,css,tensorflow" />
+        <img src="https://skillicons.dev/icons?i=blender,bootstrap,figma,github,html,java,javascript,linux,php,python,mysql,nodejs,pytorch,photoshop" width="400" /><br>
+        <img src="https://skillicons.dev/icons?i=flask,vscode,git,html,css,tensorflow" width="400" />
     </a>
 </div>
 
