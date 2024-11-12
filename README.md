@@ -48,13 +48,27 @@
 
 <hr style="width:50%; border:1px solid #ddd;" />
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=blender,bootstrap,figma,github,html,java,javascript,linux,php,python,mysql,nodejs,pytorch,photoshop" width="400" /><br>
-        <img src="https://skillicons.dev/icons?i=flask,vscode,git,html,css,tensorflow" width="400" />
-    </a>
+    <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" width="30" alt="Blender" style="margin: 5px;" /></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="30" alt="Bootstrap" style="margin: 5px;" /></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma" style="margin: 5px;" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" style="margin: 5px;" /></a>
+    <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML" style="margin: 5px;" /></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="30" alt="Java" style="margin: 5px;" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="30" alt="JavaScript" style="margin: 5px;" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux" style="margin: 5px;" /></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="30" alt="PHP" style="margin: 5px;" /></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="30" alt="Python" style="margin: 5px;" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySQL" style="margin: 5px;" /></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js" style="margin: 5px;" /></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="30" alt="PyTorch" style="margin: 5px;" /></a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width="30" alt="Photoshop" style="margin: 5px;" /></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="30" alt="Flask" style="margin: 5px;" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="30" alt="VSCode" style="margin: 5px;" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="30" alt="Git" style="margin: 5px;" /></a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS" style="margin: 5px;" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="30" alt="TensorFlow" style="margin: 5px;" /></a>
 </div>
 
 ---
