@@ -46,7 +46,11 @@
 
 </div>
 
-<div align="center" style="background-color: #ffffff; padding: 15px; border-radius: 8px;  justify-content: center; align-items: center; flex-wrap: wrap;">
+<hr style="width:50%; border:1px solid #ddd;" />
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<br/>
+<div align="center" style="background-color: #ffffff; padding: 15px; border-radius: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" style="margin: 5px;" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" style="margin: 5px;" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" style="margin: 5px;" /></a>
