@@ -10,81 +10,120 @@
 
  <h3 style="font-size: 18px; font-family: 'Poppins'; color: #FFFFFF; background-color: #FF00FF; padding: 8px 15px; border-radius: 12px; display: inline-block; text-shadow: 1px 1px 2px #333333;">Exploring the World of Programming ၊၊||၊</h3>
 
----
+###
 
-  <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <div style="font-family: 'Poppins', sans-serif; display: inline-block; padding: 20px 30px; background: linear-gradient(135deg, #FF00FF, #00CFFF); border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out; border: 2px solid #FF00FF; color: #FFFFFF;">
-      <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <div style="padding: 10px 20px; border-bottom: 2px solid #FFFFFF;">
-          🌱 Currently learning <strong>Machine Learning</strong>
-        </div>
-        <div style="padding: 10px 20px; border-bottom: 2px solid #FFFFFF;">
-          💬 Open to discussions about <strong>anything!</strong>
-        </div>
-        <div style="padding: 10px 20px; border-bottom: 2px solid #FFFFFF;">
-          📫 Reach me at <strong>arkaadiana.lit@gmail.com</strong>
-        </div>
-        <div style="padding: 10px 20px;">
-          ⚡ Fun Fact: <strong>Before coding, I mastered motion graphics and VFX</strong>
-        </div>
-      </div>
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoxNjFzeWU3dDJ0aXpwMzJwMG95Mnh0cDBpcTE0NWswNTY4Y2NrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif" />
+  </div>
+  <div style="color: #FFFFFF;">
+    <div style="padding: 10px 20px; border-bottom: 2px solid #FFFFFF;">
+      🌱 Currently learning <strong>Machine Learning</strong>
+    </div>
+    <div style="padding: 10px 20px; border-bottom: 2px solid #FFFFFF;">
+      💬 Open to discussions about <strong>anything!</strong>
+    </div>
+    <div style="padding: 10px 20px; border-bottom: 2px solid #FFFFFF;">
+      📫 Reach me at <strong>arkaadiana.lit@gmail.com</strong>
+    </div>
+    <div style="padding: 10px 20px;">
+      ⚡ Fun Fact: <strong>Before coding, I mastered motion graphics and VFX</strong>
     </div>
   </div>
-
 </div>
 
----
-
-<div align="center" style="margin-top: 20px;">
-
+###
 <h3 style="font-size: 24px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">✦ Connect with me</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/arka-adiana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/4rrka" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@4rrka35" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/arka-adiana/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/zsVBckf4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/4rrka/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B6287758058885&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://linktr.ee/4rrka?fbclid=PAZXh0bgNhZW0CMTEAAaZE0tMaCNA_tc0NEAfCE7kqUY-EK9buWytVrAWdhyamzSq7QNcFKPwxmsg_aem_K_K-bHjsrq3NlhP-XNaVeQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://www.youtube.com/@4rrka35" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://paypal.me/4rrka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="paypal logo"  />
+  </a>
 </div>
 
----
-
-<div align="center" style="margin-top: 20px;">
-
+###
 <h3 style="font-size: 24px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">🛠 Languages and Tools</h3>
 
 <div align="center">
-    <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" width="30" alt="Blender" style="margin: 5px;" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="30" alt="Bootstrap" style="margin: 5px;" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma" style="margin: 5px;" /></a>
-    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" style="margin: 5px;" /></a>
-    <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML" style="margin: 5px;" /></a>
-    <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="30" alt="Java" style="margin: 5px;" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="30" alt="JavaScript" style="margin: 5px;" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux" style="margin: 5px;" /></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="30" alt="PHP" style="margin: 5px;" /></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="30" alt="Python" style="margin: 5px;" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySQL" style="margin: 5px;" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js" style="margin: 5px;" /></a>
-    <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="30" alt="PyTorch" style="margin: 5px;" /></a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width="30" alt="Photoshop" style="margin: 5px;" /></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="30" alt="Flask" style="margin: 5px;" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="30" alt="VSCode" style="margin: 5px;" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="30" alt="Git" style="margin: 5px;" /></a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS" style="margin: 5px;" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="30" alt="TensorFlow" style="margin: 5px;" /></a>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
----
-<div align="center" style="margin-top: 20px;">
+###
 
-<h3 style="font-size: 22px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">☰ GitHub Statistics</h3>
-
-<div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px; width: 30%; max-width: 100px; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkaadiana&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=FF00FF&icon_color=FF00FF&locale=en" alt="GitHub Stats" width="50%" style="margin-bottom: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkaadiana&theme=transparent&bg_color=333333&text_color=ffffff&fire=FF00FF&ring=FF00FF" alt="Streak Stats" width="50%" style="margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arkaadiana&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=FF00FF&icon_color=FF00FF&locale=en&layout=compact" alt="Top Languages" width="50%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkaadiana&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arkaadiana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=arkaadiana&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=arkaadiana&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkaadiana&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-</div>
+###
 
+<img src="https://raw.githubusercontent.com/arkaadiana/arkaadiana/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/arkaadiana/arkaadiana/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
